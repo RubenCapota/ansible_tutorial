@@ -1,0 +1,9 @@
+---
+
+- hosts: all
+  become_user: root
+  tasks:
+
+  - name: install apache2 package
+    yum:
+      name: httpd
