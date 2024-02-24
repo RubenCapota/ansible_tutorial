@@ -1,3 +1,4 @@
-10.151.19.129
-10.151.19.173
-10.151.19.178
+10.151.19.129 apache_package=httpd php_package=php
+10.151.19.173 apache_package=httpd php_package=php
+10.151.19.178 apache_package=httpd php_package=php
+10.151.19.118 apache_package=apache2 php_package=libapache2-mod-php
